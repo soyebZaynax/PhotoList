@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "95363039052",
+    "project_id": "photolist-85bb6",
+    "storage_bucket": "photolist-85bb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95363039052:android:172055ad4f76a5362759e9",
+        "android_client_info": {
+          "package_name": "com.muktadir.photolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95363039052-k8idlbi2kq9cbhtvp5h4ldu5mloo5gg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbVmEVVf7WGVCt-AjQu3kwZhQvmc0KWfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95363039052-k8idlbi2kq9cbhtvp5h4ldu5mloo5gg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
